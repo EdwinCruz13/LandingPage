@@ -22,7 +22,7 @@ Welcome to my first Landing Page.
 </p>
 </details>
 
-<details open="">
+<details close="">
   <summary><h2>📁Structure</h2></summary>
   <br>
 <p dir="auto"> 
