@@ -22,6 +22,14 @@ Welcome to my first Landing Page.
 </p>
 </details>
 
+<details open="">
+  <summary><h2>📁Structure</h2></summary>
+  <br>
+<p dir="auto"> 
+    <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/landingPage.drawio.png?raw=true" />
+</p>
+</details>
+
 
 <details open="">
   <summary><h2>✨Give some feedbacks</h2></summary>
