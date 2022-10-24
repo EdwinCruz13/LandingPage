@@ -1,0 +1,85 @@
+.items{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items: center;
+
+    width: 100%;
+    height: 100%;
+    padding: 1rem;
+    
+    background: #fff;
+    z-index: 99;
+}
+
+.items h1{
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+}
+
+.items .items-group{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items: center;
+    gap:15px;
+    
+}
+
+.items .item-product{
+   
+    width: 350px;
+    height: 350px;
+    border-radius: 5%;
+
+    justify-content:space-around;
+}
+
+.items .item-product .img{
+    width: 50px;
+    height: 50px;
+}
+
+
+    .items .item-product img{
+        display: block;
+        width: 100%;
+        height: 65%;
+    }
+
+    .items .item-product .item-tag{
+        display: block;
+        width: 100%;
+        text-align: center;
+        font-size: 25px;
+        font-weight: bold;
+        margin-bottom: 1.5rem;
+        z-index: 99;
+    }
+
+        .items .item-product .item-tag p:nth-child(1){
+            font-size: 48px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #395144;
+        }
+
+        .items .item-product .item-tag p:nth-child(2){
+            font-size: 24px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #4E6C50;
+        }
+
+        .items .item-product .item-tag p:nth-child(2) del{
+            font-weight: normal;
+            color:4E6C50;
+            text-decoration: line-through;
+        }
