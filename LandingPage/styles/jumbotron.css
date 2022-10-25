@@ -1,26 +1,30 @@
 .jumbotron{
     display: flex;
-    flex-flow: column wrap;
+    flex-flow: column nowrap;
     justify-content:center;
-    gap: 25px;
-
+    align-items: center;
     width: 100%;
-    margin: 0 auto;
     background: rgb(255, 255, 255, 0.5);
     height: 450px;
+   
+}
+
+.jumbotron p{
+    padding: 2rem 15rem;
+    font-size: 38px;
     text-align: center;
+    color: #003300
+    
+
 }
 
 
 .video-container{
     display: absolute;
     top: 0;
-    /*display: flex;
-    flex-wrap: nowrap;
-    justify-items: center;*/
     width: 100%;
     height: auto;
-    background: rgb(235, 194, 208, 0.3);
+    background: rgb(178, 250, 180, 0.3);
     z-index: -1;
 }
   
@@ -30,7 +34,7 @@
     height: auto;
     z-index: -1;
     min-height: 350px;
-    top: 50%;
+    top: 61%;
     left: 50%;
     transform: translate(-50%,-40%);    
 }
