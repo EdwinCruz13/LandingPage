@@ -70,15 +70,15 @@
 }
 
 .btn-signup {
-    color: #9b5857;
-    background-color: #fff;
-    border-color: #9b5857;
+    color: #fff;
+    background-color: #f68303;
+    border-color: #f68303;
 }
 
 .btn-signup:hover {
     color: #fff;
-    background-color: #9b5857;
-    border-color: #9b5857;
+    background-color: #d3852be8;
+    border-color: #f68303;
     transition: ease-in 0.2s background-color;
 }
   
@@ -97,12 +97,12 @@
 
 footer{
     display: block;
-    background-color: #f7efe8;
+    background-color: #fbfffc;
     height: 15rem;
 }
 
 footer .wrapper-footer{
-    background-color: #9b5857;
+    background-color: #fff;
 }
 
     footer .wrapper-footer .wrapper-menu-footer .links{
@@ -116,6 +116,7 @@ footer .wrapper-footer{
     }
 
     footer .wrapper-footer .wrapper-menu-footer .links img{
+       display: block;
        margin-right: 1rem;
        color:#fff;
        width: 50px;
@@ -123,13 +124,18 @@ footer .wrapper-footer{
 
     }
 
+    .wrapper-footer .logo{
+        display: block;
+        background-color:#fbfffc;
+    }
+
 footer .wrapper-menu-link{
     display: grid;
     grid-template-columns: 1fr 2fr 2fr 2fr;
     gap:5rem;
-    
+    margin-top: -1rem;
    
-    background-color: #f7efe8;
+    background-color: #fbfffc;
     padding:5rem 7rem;
     color:#5d4037;
 }

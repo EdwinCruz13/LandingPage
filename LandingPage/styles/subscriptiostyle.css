@@ -8,22 +8,22 @@
 
 .subscription article{
     padding: 1rem;
-    background: #f7efe8;
+    background: #388e3c;
 }
 
 .subscription h1{
     font-size:36px;
-    color: #9b5857
+    color: #fff
 }
 
 .subscription h3{
     font-size:24px;
-    color: #9b5857
+    color: #fff
 }
 
 .subscription label{
     font-size:24px;
-    color: #9b5857
+    color: #fff
 }
 
 .subscription img{
@@ -45,7 +45,7 @@
     display: flex;
     flex-direction: row;
     flex-wrap:wrap;
-    justify-content:baseline;
+    justify-content:center;
     align-items: center;
     gap:15px;
     padding:5rem;
@@ -54,4 +54,28 @@
     text-align: justify;
     font-size:24px;
     color: #9b5857
+}
+
+.subscription-detail-context{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:nowrap;
+    justify-content:space-between;
+    gap:6rem;
+    margin-top: 1.25rem;
+
+    color: #003300
+}
+
+
+.subscription-detail h1{
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+    
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #003300
 }
