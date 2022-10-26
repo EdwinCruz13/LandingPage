@@ -22,7 +22,7 @@ Bienvenido a mi primer página principal.
 </p>
 </details>
 
-<details open="">
+<details close="">
   <summary><h2>😯  Razones por la que escogí este tema</h2></summary>
   <br>
 <p dir="auto"> 
@@ -35,11 +35,25 @@ Bienvenido a mi primer página principal.
 </p>
 </details>
 
-<details open="">
-  <summary><h2>📁 Estructura del proyecto</h2></summary>
+<details close="">
+  <summary><h2>📁 Diseño del proyecto</h2></summary>
   <br>
 <p dir="auto"> 
     <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/webstructure.png?raw=true" />
+</p>
+</details>
+
+<details close="">
+  <summary><h2>🚀 Estructura del proyecto</h2></summary>
+  <br>
+<p dir="auto"> 
+    
+- [x] Consume any REST API and waiting for results.
+  <br>
+- [x] Reading or Writing some data to a DB.
+  <br>
+- [x] Reading or Writing data from a file on FileSystem.
+  <br>
 </p>
 </details>
 
