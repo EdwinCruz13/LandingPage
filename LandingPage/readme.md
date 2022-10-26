@@ -22,7 +22,7 @@ Bienvenido a mi primer página principal.
 </p>
 </details>
 
-<details close="">
+<details open="">
   <summary><h2>📁Structure</h2></summary>
   <br>
 <p dir="auto"> 
