@@ -23,6 +23,14 @@ Bienvenido a mi primer página principal.
 </details>
 
 <details open="">
+  <summary><h2>😯  Razones por la que escogí este tema</h2></summary>
+  <br>
+<p dir="auto"> 
+    bla bla bla
+</p>
+</details>
+
+<details open="">
   <summary><h2>📁 Estructura del proyecto</h2></summary>
   <br>
 <p dir="auto"> 
