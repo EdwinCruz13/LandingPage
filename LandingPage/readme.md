@@ -54,8 +54,21 @@ Bienvenido a mi primer página principal.
 - [x] 📁 La carpeta <b>Structure</b> contiene archivo de imagenes que muestra el diseño de la página web.
   <br>
 - [x] 🗎  El archivo <b>index.html</b> es el archivo en html5.
-  <br>
+  <br><br>
   <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/content.png?raw=true" />
+            
+</p>
+</details>
+
+<details open="">
+  <summary><h2>💡 Resultado</h2></summary>
+<p dir="auto"> 
+  <br><br>
+  <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/1-desktop.png?raw=true" />
+  <br><br>
+  <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/2-tablet.png?raw=true" />
+  <br><br>
+  <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/3-mobile.png?raw=true" />
             
 </p>
 </details>
