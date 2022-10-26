@@ -43,6 +43,15 @@
     justify-content:space-around;
 }
 
+.items .item-product:hover{
+    opacity: 0.8;
+	transform: scale(1.01);
+    cursor: pointer;
+    transition: .3s ease-in-out;
+
+}
+
+
 .items  img{
     border-radius: 5%;
 }
