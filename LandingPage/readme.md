@@ -28,7 +28,7 @@ Bienvenido a mi primer página principal.
 <p dir="auto"> 
     bla bla bla
     <br>
-    <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/webstructure.png?raw=true" />
+    <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/resources/1.webp?raw=true" />
 </p>
 </details>
 
@@ -36,7 +36,7 @@ Bienvenido a mi primer página principal.
   <summary><h2>📁 Estructura del proyecto</h2></summary>
   <br>
 <p dir="auto"> 
-    <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/resources/1.webp?raw=true" />
+    <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/webstructure.png?raw=true" />
 </p>
 </details>
 
