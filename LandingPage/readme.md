@@ -45,9 +45,8 @@ Bienvenido a mi primer página principal.
 
 <details open="">
   <summary><h2>🚀 Estructura del proyecto</h2></summary>
-  <br>
 <p dir="auto"> 
-    
+
 - [x] 📁 La carpeta <b>resource</b> contiene archivos de imagenes usados en la página web.
   <br>
 - [x] 📁 La carpeta <b>styles</b> contiene archivos de estilos css.
