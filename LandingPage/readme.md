@@ -26,7 +26,6 @@ Bienvenido a mi primer página principal.
   <summary><h2>😯  Razones por la que escogí este tema</h2></summary>
   <br>
 <p dir="auto"> 
-    bla bla bla
     Hoy en día cultivar en diversos espacios urbanos y pre-urbanos es una alternativa viable gracias a los avances tecnológicos. La adopción de dichos avances es la clave para hacer que el futuro de la producción de alimentos sea una práctica sostenible en el tiempo.
     <br>  
     La innovación tecnológica constituye una herramienta fundamental para la consolidación de la agricultura de precisión, la cual reviste de muchos elementos y estos a su vez hacen que el desarrollo de las granjas verticales sea una realidad en el contexto actual de muchos países.

@@ -5,8 +5,13 @@
     align-items: center;
     width: 100%;
     background: rgb(255, 255, 255, 0.5);
-    height: 450px;
+    height: 500px;
+    margin-top: -1rem;
    
+}
+
+.jumbotron-mobile{
+    display: none;
 }
 
 .jumbotron p{
@@ -14,8 +19,6 @@
     font-size: 38px;
     text-align: center;
     color: #003300
-    
-
 }
 
 

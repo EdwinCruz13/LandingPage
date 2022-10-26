@@ -1,0 +1,133 @@
+@media only screen and (min-width: 480px) and (max-width: 1000px){
+    *{
+        
+        box-sizing: border-box;
+    }
+
+    body, header, .nav{
+        padding: 0;
+        margin: 0;
+    }
+
+    .menu{
+        padding: 0;
+        display: flex;
+        background-color: #003300;
+        width: 100%;
+
+        
+    }
+
+    .menu .links{
+       margin: 0;
+       padding: 0;
+       display: flex;
+    }
+
+    .menu .links a{
+        display: block;
+        padding: 1rem;
+        color:#fff
+     }
+
+    .translation {
+        display: none;
+    }
+
+    .jumbotron{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content:center;
+        align-items:center;
+        column-count: 1;
+        width: 100%;
+        background: rgb(255, 255, 255, 0.5);
+        
+        margin-top: -8rem;
+        font-size: 8px;
+    }
+
+    .jumbotron p{
+        display:inline;
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .video-container{
+        width: 100%;
+        height: auto;
+        background: rgb(178, 250, 180, 0.3);
+        z-index: -1;
+        margin-top: -8rem;
+    }
+
+    .subscription-detail{
+        font-size: 16px;
+    }
+
+    .subscription-detail .subscription-detail-context p{
+        font-size: 16px;
+    }
+
+    .subscription-detail img{
+        width: 250px;
+        height: 250px;
+    }
+
+    .wrapper.wrapper-menu-link{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .nav .logo img{
+        height: 250px;
+        width: 100%;
+    }
+
+    .wrapper-footer .logo{
+        display: none;
+        
+    }
+    
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 720px){
+    .jumbotron, .video-container{
+        margin-top: -2rem;
+        
+    }
+
+    .jumbotron-mobile{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content:center;
+        font-size: 2rem;
+        text-align: center;
+        margin-top: -5rem;
+         background: #d7ffd9;
+         padding: 3rem;
+    }
+
+
+    .jumbotron p{
+        display: none;
+
+    }
+
+    .subscription-detail-context{
+        font-size: 14px;
+    }
+
+    .subscription-detail-context img{
+       
+    }
+
+    .subscription-detail-context{
+        display: flex;
+        flex-direction: column;
+        align-items: center;  
+        justify-content: center;
+    }
+}
