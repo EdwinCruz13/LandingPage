@@ -43,16 +43,18 @@ Bienvenido a mi primer página principal.
 </p>
 </details>
 
-<details close="">
+<details open="">
   <summary><h2>🚀 Estructura del proyecto</h2></summary>
   <br>
 <p dir="auto"> 
     
-- [x] Consume any REST API and waiting for results.
+- [x] 📁 La carpeta <b>resource</b> contiene archivos de imagenes usados en la página web.
   <br>
-- [x] Reading or Writing some data to a DB.
+- [x] 📁 La carpeta <b>styles</b> contiene archivos de estilos css.
   <br>
-- [x] Reading or Writing data from a file on FileSystem.
+- [x] 📁 La carpeta <b>Structure</b> contiene archivo de imagenes que muestra el diseño de la página web.
+  <br>
+- [x] 🗎  El archivo <b>index.html</b> es el archivo en html5.
   <br>
 </p>
 </details>
