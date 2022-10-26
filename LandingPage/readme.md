@@ -26,7 +26,7 @@ Bienvenido a mi primer página principal.
   <summary><h2>📁Structure</h2></summary>
   <br>
 <p dir="auto"> 
-    <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/webstructure?raw=true" />
+    <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/webstructure.png?raw=true" />
 </p>
 </details>
 
