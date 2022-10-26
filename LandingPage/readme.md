@@ -55,6 +55,8 @@ Bienvenido a mi primer página principal.
   <br>
 - [x] 🗎  El archivo <b>index.html</b> es el archivo en html5.
   <br>
+  <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/content.png?raw=true" />
+            
 </p>
 </details>
 
