@@ -64,12 +64,11 @@ Bienvenido a mi primer página principal.
   <summary><h2>💡 Resultado</h2></summary>
 <p dir="auto"> 
   <br><br>
-  <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/1-desktop.png?raw=true" />
-  <br><br>
-  <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/2-tablet.png?raw=true" />
-  <br><br>
-  <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/3-mobile.png?raw=true" />
-            
+  <ul>
+    <li><a href="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/1-desktop.png?raw=true">1 - Versión desktop.</a></li>
+    <li><a href="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/2-tablet.png?raw=true">2 - Versión tablet.</a></li>
+    <li><a href="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/3-mobile.png?raw=true">3 - Versión mobile.</a></li>
+  </ul>        
 </p>
 </details>
 
