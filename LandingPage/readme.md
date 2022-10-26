@@ -27,8 +27,12 @@ Bienvenido a mi primer página principal.
   <br>
 <p dir="auto"> 
     bla bla bla
+    Hoy en día cultivar en diversos espacios urbanos y pre-urbanos es una alternativa viable gracias a los avances tecnológicos. La adopción de dichos avances es la clave para hacer que el futuro de la producción de alimentos sea una práctica sostenible en el tiempo.
+    <br>  
+    La innovación tecnológica constituye una herramienta fundamental para la consolidación de la agricultura de precisión, la cual reviste de muchos elementos y estos a su vez hacen que el desarrollo de las granjas verticales sea una realidad en el contexto actual de muchos países.
     <br>
-    <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/resources/1.webp?raw=true" />
+    New Begin es una empresa ficticia que ofrece información y herramientas acerca del tema.
+    <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/resources/4.webp?raw=true" />
 </p>
 </details>
 
