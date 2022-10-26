@@ -1,5 +1,5 @@
 # HTML5 - CSS Lesson
-Bienvenido a mi primer página principal.
+Welcome to my first Landing Page.
 
 <details open="">
   <summary><h2>✨About this</h2></summary>
@@ -26,7 +26,7 @@ Bienvenido a mi primer página principal.
   <summary><h2>📁Structure</h2></summary>
   <br>
 <p dir="auto"> 
-    <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/webstructure?raw=true" />
+    <img src="https://github.com/EdwinCruz13/UcamProject/blob/master/LandingPage/Structure/landingPage.drawio.png?raw=true" />
 </p>
 </details>
 
