@@ -1,5 +1,6 @@
 # HTML5 - CSS Lesson
 Bienvenido a mi primer página principal.
+Ver mi LandingPage <a href="https://edwincruz13.github.io/LandingPage/">🔗 aqui</a>
 
 <details open="">
   <summary><h2>✨Acerca del granjas verticales</h2></summary>
@@ -64,6 +65,7 @@ Bienvenido a mi primer página principal.
   <summary><h2>💡 Resultado</h2></summary>
 <p dir="auto"> 
   Ver mi LandingPage <a href="https://edwincruz13.github.io/LandingPage/">🔗 aqui</a>
+  <br>
   <ul>
     <li><a href="https://github.com/EdwinCruz13/LandingPage/blob/master/Structure/1-desktop.png">1 - Versión desktop.</a></li>
     <li><a href="https://github.com/EdwinCruz13/LandingPage/blob/master/Structure/2-tablet.png">2 - Versión tablet.</a></li>
