@@ -40,7 +40,16 @@
         justify-content:space-between;
         font-size: 36px;
         color: #003300;
-        margin: 0px 1rem
+        margin: 0px 1rem;
+        padding: 0.5rem;
+
+    }
+
+    .links a:hover{
+       background-color: #023502; 
+       border-radius: 5%;
+       color: #fff;
+       transition: ease-in 0.3s background-color;
 
     }
 
